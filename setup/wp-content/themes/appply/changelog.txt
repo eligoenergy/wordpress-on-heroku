@@ -1,0 +1,7 @@
+*** Appply Changelog ***
+
+2013.01.15 - version 1.0.1
+ * css/layout.css - Fixed positioning of slider arrows on the iPad.
+
+2013.01.10 - version 1.0.0
+ * First release!
